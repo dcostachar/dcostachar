@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 - 👋🙂 Hi, I’m Charlene!
 - 👩‍💻📊 I’m a seasoned Marketing & Communications Strategist, now diving into the world of Data Analytics.
