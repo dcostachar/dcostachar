@@ -1,3 +1,5 @@
+# About Me
+
 - 👋🙂 Hi, I’m Charlene!
 - 👩‍💻📊 I’m a seasoned Marketing & Communications Strategist, now diving into the world of Data Analytics.
 - ⚖️🧠 I’m energized by the blend of creative thinking and data—where right-brain creativity meets left-brain logic is my sweet spot.
