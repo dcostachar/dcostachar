@@ -10,7 +10,7 @@
 
 ## My Portfolio
 
-[**R:**](https://dcostachar.github.io/bellabeat-case-study/) Analyzed Fitbit Fitness Tracker data with R, utilizing tidyverse and ggplot2, to examine user behaviour and conduct a competitor analysis to optimize Bellabeat's product marketing strategies.
+[**R:**](https://github.com/dcostachar/bellabeat-case-study/tree/main) Analyzed Fitbit Fitness Tracker data with R, utilizing tidyverse and ggplot2, to examine user behaviour and conduct a competitor analysis to optimize Bellabeat's product marketing strategies.
 
 [**SQL + Tableau:**](https://github.com/dcostachar/cyclistic-case-study) Analyzed Cyclistic bike-share data with SQL and Tableau to uncover usage trends and generate marketing strategies to boost annual memberships. 
 
