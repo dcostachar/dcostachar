@@ -16,3 +16,4 @@
 
 [**Tableau:**](https://github.com/dcostachar/telco-customer-churn-dashboard) Built an interactive Tableau dashboard using the Telco Customer Churn dataset to analyze churn drivers, identify at-risk segments, and develop data-driven retention strategies for the telecommunications industry.
 
+[**Tableau:**](https://github.com/dcostachar/call-center-kpi-dashboard) Developed a KPI dashboard in Tableau using call center data to analyze employee performance and provide insights to enhance operational efficiency and customer satisfaction.
