@@ -14,6 +14,8 @@
 
 [**SQL + Tableau:**](https://github.com/dcostachar/cyclistic-case-study) Analyzed Cyclistic bike-share data with SQL and Tableau to uncover usage trends and generate marketing strategies to boost annual memberships. 
 
+[**SQL:**](https://github.com/dcostachar/world-life-expectancy-exploratory-data-analysis/blob/main/README.md) Performed data cleaning and exploratory data analysis (EDA) in SQL, examining global life expectancy trends and correlations with factors such as GDP, development status, BMI, and adult mortality. 
+
 [**Tableau:**](https://github.com/dcostachar/telco-customer-churn-dashboard) Built an interactive Tableau dashboard using the Telco Customer Churn dataset to analyze churn drivers, identify at-risk segments, and develop data-driven retention strategies for the telecommunications industry.
 
 [**Tableau:**](https://github.com/dcostachar/call-center-kpi-dashboard) Developed a KPI dashboard in Tableau using call center data to analyze employee performance and provide insights to enhance operational efficiency and customer satisfaction.
