@@ -12,6 +12,8 @@
 
 [**R:**](https://github.com/dcostachar/bellabeat-case-study/tree/main) Analyzed Fitbit Fitness Tracker data with R, utilizing tidyverse and ggplot2, to examine user behaviour and conduct a competitor analysis to optimize Bellabeat's product marketing strategies.
 
+[**Python:**](https://github.com/dcostachar/pet-store-transactions-analysis/tree/main) Conducted data cleaning, exploratory data analysis (EDA), and data visualization with Python, utilizing pandas, matplotlib, and seaborn to uncover key trends in product sales for a pet store.
+
 [**SQL + Tableau:**](https://github.com/dcostachar/cyclistic-case-study) Analyzed Cyclistic bike-share data with SQL and Tableau to uncover usage trends and generate marketing strategies to boost annual memberships. 
 
 [**SQL:**](https://github.com/dcostachar/world-life-expectancy-exploratory-data-analysis/tree/main) Performed data cleaning and exploratory data analysis (EDA) in SQL, examining global life expectancy trends and correlations with factors such as GDP, development status, BMI, and adult mortality. 
